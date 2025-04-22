@@ -109,5 +109,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## ✍️ Autor
 
-Feito por [Seu Nome Aqui] 💻  
-Conecte-se no [LinkedIn](https://www.linkedin.com) ou veja mais no [GitHub](https://github.com/seunome).
+Feito por Beno Lopes Dias 💻  
+Conecte-se no [LinkedIn](https://www.linkedin.com/in/beno-dias-5b5a45211/) ou veja mais no [GitHub](https://github.com/beno1234/).
